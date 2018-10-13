@@ -1,0 +1,29 @@
+{"error":{"code":141,"message":"Invalid function: \"getNote\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"getNote\"' }","timestamp":"2018-10-12T11:46:45.807Z"}
+{"code":141,"message":"Invalid function: \"getNote\"","level":"error","timestamp":"2018-10-12T11:46:45.809Z"}
+{"error":{"code":141,"message":"Invalid function: \"getNote\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"getNote\"' }","timestamp":"2018-10-12T11:46:49.020Z"}
+{"code":141,"message":"Invalid function: \"getNote\"","level":"error","timestamp":"2018-10-12T11:46:49.021Z"}
+{"code":111,"message":"productIdentifier is required.","level":"error","timestamp":"2018-10-12T11:48:03.986Z"}
+{"code":111,"message":"productIdentifier is required.","level":"error","timestamp":"2018-10-12T11:48:15.401Z"}
+{"code":111,"message":"productIdentifier is required.","level":"error","timestamp":"2018-10-12T11:48:32.294Z"}
+{"code":111,"message":"productIdentifier is required.","level":"error","timestamp":"2018-10-12T11:48:35.444Z"}
+{"code":111,"message":"icon is required.","level":"error","timestamp":"2018-10-12T11:48:39.588Z"}
+{"error":{"code":141,"message":"Invalid function: \"getNote\""},"level":"error","message":"Error handling request: ParseError { code: 141, message: 'Invalid function: \"getNote\"' }","timestamp":"2018-10-12T11:51:55.911Z"}
+{"code":141,"message":"Invalid function: \"getNote\"","level":"error","timestamp":"2018-10-12T11:51:55.914Z"}
+{"functionName":"getUser","error":{"code":141,"message":"Parse.query is not a constructor"},"params":{},"level":"error","message":"Failed running cloud function getUser for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"Parse.query is not a constructor\"}","timestamp":"2018-10-12T11:54:20.559Z"}
+{"code":141,"message":"Parse.query is not a constructor","level":"error","timestamp":"2018-10-12T11:54:20.560Z"}
+{"functionName":"getUser","error":{"code":141,"message":"Parse.query is not a constructor"},"params":{},"level":"error","message":"Failed running cloud function getUser for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"Parse.query is not a constructor\"}","timestamp":"2018-10-12T11:55:04.307Z"}
+{"code":141,"message":"Parse.query is not a constructor","level":"error","timestamp":"2018-10-12T11:55:04.308Z"}
+{"functionName":"getUser","error":{"code":141,"message":"Parse.query is not a constructor"},"params":{},"level":"error","message":"Failed running cloud function getUser for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"Parse.query is not a constructor\"}","timestamp":"2018-10-12T11:56:21.140Z"}
+{"code":141,"message":"Parse.query is not a constructor","level":"error","timestamp":"2018-10-12T11:56:21.144Z"}
+{"functionName":"getConcec","error":{"code":141,"message":"count is not defined"},"params":{},"level":"error","message":"Failed running cloud function getConcec for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"count is not defined\"}","timestamp":"2018-10-12T12:20:53.089Z"}
+{"code":141,"message":"count is not defined","level":"error","timestamp":"2018-10-12T12:20:53.095Z"}
+{"functionName":"getConcec","error":{"code":141,"message":"count is not defined"},"params":{},"level":"error","message":"Failed running cloud function getConcec for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"count is not defined\"}","timestamp":"2018-10-12T12:22:19.746Z"}
+{"code":141,"message":"count is not defined","level":"error","timestamp":"2018-10-12T12:22:19.750Z"}
+{"functionName":"getConcec","error":{"message":"unauthorized"},"params":{},"level":"error","message":"Failed running cloud function getConcec for user undefined with:\n  Input: {}\n  Error: {\"message\":\"unauthorized\"}","timestamp":"2018-10-12T13:39:49.153Z"}
+{"message":"unauthorized","level":"error","timestamp":"2018-10-12T13:39:49.156Z"}
+{"functionName":"getConcec","error":{"message":"unauthorized"},"params":{},"level":"error","message":"Failed running cloud function getConcec for user undefined with:\n  Input: {}\n  Error: {\"message\":\"unauthorized\"}","timestamp":"2018-10-12T13:39:51.316Z"}
+{"message":"unauthorized","level":"error","timestamp":"2018-10-12T13:39:51.317Z"}
+{"functionName":"updateConCec","error":{"code":141,"message":"results.set is not a function"},"params":{},"level":"error","message":"Failed running cloud function updateConCec for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"results.set is not a function\"}","timestamp":"2018-10-12T15:51:19.531Z"}
+{"code":141,"message":"results.set is not a function","level":"error","timestamp":"2018-10-12T15:51:19.533Z"}
+{"functionName":"updateConCec","error":{"code":141,"message":"results.save is not a function"},"params":{},"level":"error","message":"Failed running cloud function updateConCec for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"results.save is not a function\"}","timestamp":"2018-10-12T15:52:21.261Z"}
+{"code":141,"message":"results.save is not a function","level":"error","timestamp":"2018-10-12T15:52:21.264Z"}

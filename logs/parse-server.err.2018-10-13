@@ -1,0 +1,2 @@
+{"functionName":"updateConCec","error":{"code":141,"message":"results.save is not a function"},"params":{},"level":"error","message":"Failed running cloud function updateConCec for user undefined with:\n  Input: {}\n  Error: {\"code\":141,\"message\":\"results.save is not a function\"}","timestamp":"2018-10-13T02:02:02.081Z"}
+{"code":141,"message":"results.save is not a function","level":"error","timestamp":"2018-10-13T02:02:02.083Z"}
